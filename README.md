@@ -6,3 +6,6 @@
 ## Используемые технологии:
 - React
 - TypeScript
+
+Демонстрация проекта: 
+https://react-ts-hangman-teal.vercel.app/
